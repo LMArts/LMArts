@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Welcome to my GitHub. I am a web developer and enthusiast of new frameworks, such as Vue Js and React Js. Also, I like a little bit of design and illustration too. Enjoy some of my projects!  
+Welcome to my GitHub. I'm currently working with React Native and learning more about mobile development and new web frameworks like Vue Js. Also, I like a little bit of design and illustration too. Enjoy some of my projects!  
 
 My social media:  
 
