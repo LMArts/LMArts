@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Welcome to my GitHub. I'm currently working with React Native and learning more about mobile development and new web frameworks like React Js. Also, I like a little bit of design and illustration too. Enjoy some of my projects!  
+Welcome to my GitHub. I'm currently working with React and React Native and learning more about new tecnologies. Also, I like a little bit of design and illustration too. Enjoy some of my projects!  
 
 My social media:  
 
